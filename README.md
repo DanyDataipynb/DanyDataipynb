@@ -1,14 +1,15 @@
 <div align="center">
-<h1 align="center">Hola !!!, yo soy  <a href="https://aristi.dev">Daniel Ramírez</a> 👋</h1>
+<h1 align="center">Hi !!!, I am  <a href="https://aristi.dev">Daniel Ramírez</a> 👋</h1>
 </div>
 <img src="https://imgur.com/eb0PD6s.png">
 
 ## About me
-⭐ Ingeniero Mecatrónico con experiencia en proyectos de analítica de datos.
-⭐ Aplico estadística para resolver problemas de forma lógica y estructurada.
-⭐ Me especializo en resolver retos complejos usando distintos lenguajes de programación como Python, SQL y más.
-⭐ Soy un apasionado por la tecnología, siempre buscando nuevas formas de innovar.
-⭐ Autodidacta por naturaleza, en constante búsqueda de aprendizaje y mejora continua.
+⭐ Mechatronics Engineer specialized in Data Analytics, with a strong foundation in data-driven problem solving.
+⭐ Skilled in data cleaning, preprocessing, and exploratory data analysis using Python and Pandas.
+⭐ Proficient in SQL for data querying and building insights from structured databases.
+⭐ Experienced with descriptive and predictive analytics, including basic machine learning models.
+⭐ Strong understanding of statistics applied to real-world business and engineering problems.
+⭐ Lifelong learner, currently pursuing a postgraduate degree in Data Analytics and building hands-on projects.
 
 <br>
                     
