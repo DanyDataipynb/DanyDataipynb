@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi !!!, I am  <a href="https://aristi.dev">Daniel Ramírez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/eGOQ4fd.png">
+<img src="https://imgur.com/a/RZEUrgV">
 
 ## About me
 - ⭐ **Mechatronics Engineer specialized in Data Analytics**, with a strong foundation in data-driven problem solving.  
